@@ -24,7 +24,7 @@ Neste repositório, encontram-se os datasets e notebooks Python usados durante o
     2. Numpy (Video + Notebook)
     3. Pandas (Video + Notebook)
     4. Matplotlib (Video + Notebook)
-    5. Scikit_learn  (Video + Notebook)
+    5. Scikit-learn  (Video + Notebook)
 4. Análise Exploratória
     1. Introdução (Video)
     2. Estatística básica (Video + Notebook)
